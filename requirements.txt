@@ -1,0 +1,5 @@
+numpy~=1.19.5
+h5py~=2.10.0
+Keras~=2.4.3
+seaborn~=0.11.1
+Tensorflow~=2.2
