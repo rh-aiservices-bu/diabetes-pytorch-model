@@ -1,8 +1,7 @@
 Flask
 gunicorn
 
-scikit-learn==0.24.1
-numpy==1.19.2
-pandas==1.2.4
-
-
+matplotlib
+numpy==1.22.*
+pandas==1.4.*
+scikit-learn==0.24.*
