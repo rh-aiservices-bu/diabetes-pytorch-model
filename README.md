@@ -40,6 +40,13 @@ pip install -r requirements-nb.txt
 # setup dependencies
 # NOTE: this may take a few minutes
 pip install -r requirements.txt
+
+# setup pytorch (cpu)
+pip install \
+  torch==1.11.0+cpu \
+  torchvision==0.12.0+cpu \
+  torchaudio==0.11.0+cpu \
+  -f https://download.pytorch.org/whl/cpu/torch_stable.html
 ```
 
 ### Start Jupyter Notebook
@@ -47,3 +54,6 @@ pip install -r requirements.txt
 # start jupypter lab
 jupyter-lab
 ```
+
+# Links
+- [PyTorch - Get Started](https://pytorch.org/get-started/locally)
