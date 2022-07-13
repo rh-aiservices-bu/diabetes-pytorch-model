@@ -57,3 +57,4 @@ jupyter-lab
 
 # Links
 - [PyTorch - Get Started](https://pytorch.org/get-started/locally)
+- [StackOverflow hdf5 conversion](https://stackoverflow.com/questions/69669249/writing-of-pandas-dataframe-object-to-hdf5-via-to-hdf-is-creating-axis0-axis1)
